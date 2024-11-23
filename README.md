@@ -32,5 +32,5 @@ To set up the NEXSHIELD project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nexshield.git
+   git clone https:https://github.com/aravindinduri/NEXSHIELD/
    cd nexshield
